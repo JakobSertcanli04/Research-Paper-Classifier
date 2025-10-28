@@ -1,0 +1,10 @@
+numpy
+pandas
+requests
+matplotlib
+plotly
+wordcloud
+google-generativeai
+tqdm
+scikit-learn
+pillow
